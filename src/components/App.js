@@ -13,7 +13,8 @@ import 'semantic-ui-css/semantic.min.css'
 
 function App() {
   
-
+  console.log("Phase2Redo")
+  
   const [games, setGames] = useState([])
   const [scores, setScores] = useState([])
 
