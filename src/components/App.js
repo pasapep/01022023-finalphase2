@@ -12,6 +12,7 @@ import 'semantic-ui-css/semantic.min.css'
 // import PlantPage from "./PlantPage";
 
 function App() {
+  
 
   const [games, setGames] = useState([])
   const [scores, setScores] = useState([])
@@ -29,7 +30,7 @@ function App() {
   const addNewScore = (myScore) => {
     setScores([...scores,myScore])
   }
-
+  console.log(scores)
 
 return (
   <BrowserRouter> 
