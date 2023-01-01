@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-phase2projectredo-dev-10730-authRole",
+      "UnauthRoleArn": "arn:aws:iam::232614478429:role/amplify-phase2projectredo-dev-10730-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::232614478429:role/amplify-phase2projectredo-dev-10730-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-phase2projectredo-dev-10730-deployment",
+      "UnauthRoleName": "amplify-phase2projectredo-dev-10730-unauthRole",
+      "StackName": "amplify-phase2projectredo-dev-10730",
+      "StackId": "arn:aws:cloudformation:us-east-1:232614478429:stack/amplify-phase2projectredo-dev-10730/f5585eb0-89a2-11ed-bbdf-0ad3dd0b0587",
+      "AmplifyAppId": "durqjhqfep96e"
+    },
+    "categories": {
+      "api": {
+        "phase2projectredo": {}
+      }
+    }
+  }
+}
